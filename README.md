@@ -1,2 +1,2 @@
-# venny-api-relationships
-The Official Venny Labs Relationships API.
+# venny-api-notifications
+The Official Venny Labs Notifications API.

@@ -3,8 +3,11 @@
     "monolog/monolog": "^1.22",
     "twig/twig": "^2.0",
     "symfony/twig-bridge": "^3",
+    "mailgun/mailgun-php": "^2.4",
+    "stripe/stripe-php": "^7.27",
     "php-http/guzzle6-adapter": " ^1.0",
     "ext-gd": "*",
+    "aws/aws-sdk-php": "^3.53",
     "react/event-loop": "^1.1.1"
   },
   "require-dev": {
@@ -12,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Relationships\\": "cartridge/models/classes/"
+      "Communications\\": "cartridge/models/classes/"
     }
   }
 }

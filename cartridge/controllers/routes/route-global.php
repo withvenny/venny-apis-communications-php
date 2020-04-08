@@ -16,7 +16,7 @@
 
         //
         if(isset($_REQUEST['app'])) {
-
+            
             //
             $request['app'] = $_REQUEST['app'];
     
@@ -24,8 +24,7 @@
             switch ($_REQUEST['domain']) {
 
                 //
-                case 'followships': require 'controllers/resources/resource-relationships-followships.php'; break;
-                case 'groups': require 'controllers/resources/resource-relationships-groups.php'; break;
+                case 'notifications': require 'controllers/resources/resource-communications-notifications.php'; break;
     
                 //
                 default: header("Location: template-guest-hello.php");

@@ -1,5 +1,5 @@
 {
-  "name": "The Official Venny Labs Relationships API.",
+  "name": "The Official Venny Labs Notifications API.",
   "description": "A complete API web app written in PHP that makes use of the ReactPHP library.",
   "repository": "https://github.com/withvenny/venny-api-posts",
   "addons": []
