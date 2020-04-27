@@ -1,2 +1,2 @@
-# venny-api-notifications
-The Official Venny Labs Notifications API.
+# venny-api-communications
+The Official Venny Labs Communications API.
